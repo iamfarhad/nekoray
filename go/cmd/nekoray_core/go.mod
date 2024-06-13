@@ -7,7 +7,7 @@ toolchain go1.21.0
 require (
 	github.com/jsimonetti/rtnetlink v1.2.2
 	github.com/matsuridayo/libneko v1.0.0 // replaced
-	github.com/xtls/xray-core v1.0.0 // replaced
+	github.com/xtls/xray-core v1.8.13 // replaced
 	grpc_server v1.0.0
 	kernel.org/pub/linux/libs/security/libcap/cap v1.2.65
 )
